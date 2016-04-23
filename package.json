@@ -1,0 +1,15 @@
+{
+  "name": "drone",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react": "^0.14.8",
+    "react-native": "^0.24.1",
+    "react-native-floating-label-text-input": "0.0.8",
+    "react-native-router-flux": "^3.22.8",
+    "realm": "^0.11.1"
+  }
+}
